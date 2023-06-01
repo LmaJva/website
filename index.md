@@ -2,6 +2,6 @@
 layout: page
 ---
 
-# Titre
+# Peinture
 
-Lorem ipsum
+un texte en **gras**
