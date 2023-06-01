@@ -2,6 +2,6 @@
 layout: page
 ---
 
-# Peinture
+## Peinture
 
 un texte en **gras**
