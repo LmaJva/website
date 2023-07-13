@@ -1,7 +1,26 @@
 ---
 layout: page
 ---
+![](https://hackmd.io/_uploads/Sy1hZP3L3.jpg)
 
-## Peinture
 
-un texte en **gras**
+## LmåJvå Art
+
+> Peindre c’est écrire avant la lettre, puis se tranformant en carte, elle voyage à travers vous et continue de tisser nos liens
+
+Mes cartes postales et impressions sont nées durant un voyage de 14 mois à travers l’Europe. 
+Des peintures en guide de remerciement à mes hôtes de voyage et n'en garde alors qu'une image numérique en souvenir.
+Puis de retour en France, les imprimer devenait de plus en plus désirable.
+
+#### A qui enverrez-vous vos prochaines pensées ?
+
+/////BOUTON  : Boutique /////////
+
+> Chacune des cartes ont une histoire, 
+> chacune un souvenir aux différentes couleurs.
+
+Mon travail réside dans l'intuition et le geste spontané laissant émerger des mondes irréels aux créatures oniriques entremêlées, parfois, de visages surgissant et colorés.
+
+Chaque peinture renferme des souvenirs marquants, des rencontres, des partages, des moments précieux capturés sur papier d'emballage, carton ou PVC, trouvés sur le tas.
+
+Mélanger les différents matérieux m'interesse de plus en plus, créant du relief, de la matière... Créer de la beauté en se reliant au côté brut, c'est la voie vers laquelle je chemine.
