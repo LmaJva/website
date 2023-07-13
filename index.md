@@ -8,7 +8,3 @@ title: Page d'accueil
 ## LmåJvå Art
 
 {% include uvp.md %}
-
-## Foire aux devinettes 
-
-{% include faq.md %}
