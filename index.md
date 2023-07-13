@@ -1,6 +1,22 @@
 ---
 layout: page
 ---
+<style> 
+  button {
+    background-color: #4CAF50; /* Green */ 
+    border: none; color: white; 
+    padding: 15px 32px; 
+    text-align: center; 
+    text-decoration: none; 
+    display: inline-block; 
+    font-size: 16px; 
+    margin: 0 50%;
+    width: 10em; 
+    cursor: pointer; 
+  }
+</style>
+
+
 ![](https://hackmd.io/_uploads/Sy1hZP3L3.jpg)
 
 
@@ -14,7 +30,9 @@ Puis de retour en France, les imprimer devenait de plus en plus désirable.
 
 #### A qui enverrez-vous vos prochaines pensées ?
 
-/////BOUTON  : Boutique /////////
+<a href="https://boutique.peintureresonnante.fr" target="_blank" >
+<button>Boutique</button>
+</a>
 
 > Chacune des cartes ont une histoire, 
 > chacune un souvenir aux différentes couleurs.
