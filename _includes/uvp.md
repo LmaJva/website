@@ -1,9 +1,9 @@
 <style> 
   button {
-    background-color: #4CAF50; /* Green */ 
+    background-color: #897853;  
     border: none; color: white; 
     padding: 15px 32px; 
-    text-align: center; 
+    text-align: left; 
     text-decoration: none; 
     display: inline-block; 
     font-size: 16px; 
