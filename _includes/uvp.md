@@ -4,11 +4,11 @@
     border: none; 
     color: white; 
     padding: 15px 32px; 
-    text-align: left; 
+    text-align: center; 
     text-decoration: none; 
     display: inline-block; 
     font-size: 16px; 
-    margin: 0 50%;
+    margin: 0;
     width: 10em; 
     cursor: pointer; 
   }
