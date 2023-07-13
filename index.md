@@ -3,7 +3,7 @@ layout: page
 title: Page d'accueil
 ---
 
-![](https://hackmd.io/_uploads/Sy1hZP3L3.jpg)
+![](assets/media/image-moi.jpeg)
 
 ## LmåJvå Art
 
