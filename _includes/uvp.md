@@ -1,7 +1,8 @@
 <style> 
   button {
     background-color: #897853;  
-    border: none; color: white; 
+    border: none; 
+    color: white; 
     padding: 15px 32px; 
     text-align: left; 
     text-decoration: none; 
@@ -10,6 +11,9 @@
     margin: 0 50%;
     width: 10em; 
     cursor: pointer; 
+  }
+  .button {
+    border: none;
   }
 </style>
 
