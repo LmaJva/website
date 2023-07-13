@@ -19,7 +19,7 @@ Mes cartes postales et impressions sont nées durant un voyage de 14 mois à tra
 Des peintures en guide de remerciement à mes hôtes de voyage et n'en garde alors qu'une image numérique en souvenir.
 Puis de retour en France, les imprimer devenait de plus en plus désirable.
 
-<a href="https://boutique.peintureresonnante.fr" target="_blank" >
+<a class="button" href="https://boutique.peintureresonnante.fr" target="_blank" >
 <button>Boutique</button>
 </a>
 
