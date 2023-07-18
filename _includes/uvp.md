@@ -17,10 +17,10 @@
   }
 </style>
 
-> Peindre c’est écrire avant la lettre, puis se tranformant en carte, elle voyage à travers vous et continue de tisser nos liens
+> La peinture c’est écrire avant la lettre, alors, se tranformant en carte, elle voyage à travers vous et continue de tisser nos liens
 
-Mes cartes postales et impressions sont nées durant un voyage de 14 mois à travers l’Europe. 
-Des peintures en guide de remerciement à mes hôtes de voyage et n'en garde alors qu'une image numérique en souvenir.
+Mes cartes postales et impressions sont nées durant un voyage de plusieurs mois à travers l’Europe. 
+Des peintures en guise de remerciement à mes hôtes de voyage, n'en gardant alors qu'une image numérique en souvenir.
 Puis de retour en France, les imprimer devenait de plus en plus désirable.
 
 <a class="button" href="https://boutique.peintureresonnante.fr" target="_blank" >
@@ -30,7 +30,7 @@ Puis de retour en France, les imprimer devenait de plus en plus désirable.
 #### A qui enverrez-vous vos prochaines pensées ?
 
 > Chacune des cartes ont une histoire, 
-> chacune un souvenir aux différentes couleurs.
+> Chacune un souvenir aux différentes couleurs.
 
 Mon travail réside dans l'intuition et le geste spontané laissant émerger des mondes irréels aux créatures oniriques entremêlées, parfois, de visages surgissant et colorés.
 
