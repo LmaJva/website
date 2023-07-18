@@ -40,6 +40,6 @@ Mélanger les différents matérieux m'interesse de plus en plus, créant du rel
 
 #### Des questions ?
 
-Trouvez toutes vos réponses sur la page A propos.
+Trouvez toutes vos réponses sur la page A propos. <br>
 Sinon écrivez-moi à grainejauneresonnante@mailo.com
 
