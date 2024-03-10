@@ -40,5 +40,5 @@ Mélanger les différents matérieux m'interesse de plus en plus, créant du rel
 
 #### Des questions sur les commandes ?
 
-Trouvez toutes vos réponses sur la page <a href="a-propos.md">à propos</a> et si vous ne trouvez pas la réponse écrivez-moi à grainejauneresonnante@mailo.com
+Trouvez toutes vos réponses sur la page <a href="https://www.peintureresonnante.fr/a-propos">à propos</a> et si vous ne trouvez pas la réponse écrivez-moi à grainejauneresonnante@mailo.com
 
