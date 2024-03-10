@@ -38,8 +38,7 @@ Chaque peinture renferme des souvenirs marquants, des rencontres, des partages, 
 
 Mélanger les différents matérieux m'interesse de plus en plus, créant du relief, de la matière... <br>Créer de la beauté en se reliant au côté brut, c'est la voie vers laquelle je chemine.
 
-#### Des questions ?
+#### Des questions sur les commandes ?
 
-Trouvez toutes vos réponses sur la page A propos. <br>
-Sinon écrivez-moi à grainejauneresonnante@mailo.com
+Trouvez toutes vos réponses sur la page <a href="a-propos.md">à propos</a> et si vous ne trouvez pas la réponse écrivez-moi à grainejauneresonnante@mailo.com
 
