@@ -7,4 +7,4 @@ title: A propos
 
 ## LmåJvå Art
 
-{% include uvp.md %}
+{% include a-propos.md %}
