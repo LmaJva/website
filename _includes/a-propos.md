@@ -1,4 +1,6 @@
-
+---
+layout: page
+---
 
 /////mettre photo d'une pile de mes cartes en bagaille////
 
